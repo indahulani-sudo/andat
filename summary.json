@@ -1,0 +1,46 @@
+{
+  "Waigeo": {
+    "lat": -0.36,
+    "lon": 130.82,
+    "coral_cover": "Tinggi",
+    "sst": 30.23,
+    "sst_anomaly": 1.17,
+    "dhw": 8.5,
+    "status": "Warning",
+    "sst_avg_1y": 30.33,
+    "last_update": "2025-12"
+  },
+  "Batanta": {
+    "lat": -0.85,
+    "lon": 130.65,
+    "coral_cover": "Sedang",
+    "sst": 29.98,
+    "sst_anomaly": 1.13,
+    "dhw": 4.15,
+    "status": "Watch",
+    "sst_avg_1y": 29.94,
+    "last_update": "2025-12"
+  },
+  "Misool": {
+    "lat": -1.95,
+    "lon": 130.18,
+    "coral_cover": "Sedang-Tinggi",
+    "sst": 29.92,
+    "sst_anomaly": 1.05,
+    "dhw": 0.04,
+    "status": "Normal",
+    "sst_avg_1y": 29.83,
+    "last_update": "2025-12"
+  },
+  "Salawati": {
+    "lat": -1.07,
+    "lon": 130.87,
+    "coral_cover": "Sedang",
+    "sst": 30.22,
+    "sst_anomaly": 1.18,
+    "dhw": 7.24,
+    "status": "Watch",
+    "sst_avg_1y": 30.17,
+    "last_update": "2025-12"
+  }
+}
