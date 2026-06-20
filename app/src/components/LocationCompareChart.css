@@ -1,0 +1,25 @@
+.lcc-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.lcc-panel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-default);
+  border-radius: var(--r-md);
+  padding: 14px 14px 4px;
+}
+
+.lcc-panel-title {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+@media (max-width: 900px) {
+  .lcc-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,38 @@
+.tc-tooltip {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-default);
+  border-radius: var(--r-sm);
+  padding: 10px 12px;
+  box-shadow: var(--shadow-card);
+  font-size: 12px;
+}
+
+.tc-tooltip-label {
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: var(--text-primary);
+}
+
+.tc-tooltip-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 3px;
+}
+
+.tc-tooltip-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.tc-tooltip-name {
+  color: var(--text-secondary);
+  flex: 1;
+}
+
+.tc-tooltip-value {
+  font-weight: 600;
+  font-family: var(--font-mono);
+}

@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* === Palette: Oseanografi / Bathymetry === */
+  --c-ocean-950: #06243a;
+  --c-ocean-900: #0a3d5c;
+  --c-ocean-700: #115478;
+  --c-ocean-500: #1c7aa8;
+  --c-ocean-300: #5fa8cc;
+  --c-ocean-100: #cfe6f0;
+  --c-ocean-50:  #e8f4f0;
+
+  --c-sand-50:   #f7f3e9;
+  --c-sand-100:  #f2ecdc;
+  --c-sand-200:  #e8dfc8;
+
+  --c-coral-healthy: #0f7a6c;
+  --c-coral-healthy-bg: #e1f3ef;
+  --c-coral-watch: #c99a2e;
+  --c-coral-watch-bg: #faf1da;
+  --c-coral-warning: #d97642;
+  --c-coral-warning-bg: #fbe9dd;
+  --c-coral-alert: #c23b22;
+  --c-coral-alert-bg: #f9e2db;
+  --c-coral-critical: #8c1f1f;
+  --c-coral-critical-bg: #f3dada;
+
+  --c-ink-900: #16241f;
+  --c-ink-700: #3c4a45;
+  --c-ink-500: #66726d;
+  --c-ink-300: #a3aaa5;
+  --c-ink-100: #dde2dd;
+
+  --c-white: #ffffff;
+
+  --bg-page: var(--c-sand-50);
+  --bg-surface: var(--c-white);
+  --bg-surface-sunk: var(--c-sand-100);
+  --bg-header: var(--c-ocean-900);
+  --border-default: var(--c-ink-100);
+  --border-strong: var(--c-ink-300);
+  --text-primary: var(--c-ink-900);
+  --text-secondary: var(--c-ink-500);
+  --text-on-ocean: var(--c-white);
+  --text-on-ocean-dim: var(--c-ocean-100);
+  --accent: var(--c-ocean-700);
+
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+  --r-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgba(10, 33, 50, 0.06), 0 1px 1px rgba(10, 33, 50, 0.04);
+  --shadow-float: 0 8px 24px rgba(10, 33, 50, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+p { margin: 0; }
+
+button {
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: var(--c-ocean-300);
+  color: var(--c-white);
+}
+
+:focus-visible {
+  outline: 2px solid var(--c-ocean-500);
+  outline-offset: 2px;
+}
+
+.mono {
+  font-family: var(--font-mono);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
