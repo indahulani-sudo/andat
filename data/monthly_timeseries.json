@@ -1,0 +1,4618 @@
+{
+  "Waigeo": [
+    {
+      "date": "2010-01",
+      "sst": 29.64,
+      "sst_anomaly": 0.93,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-02",
+      "sst": 29.2,
+      "sst_anomaly": 0.88,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-03",
+      "sst": 29.57,
+      "sst_anomaly": 0.97,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-04",
+      "sst": 30.14,
+      "sst_anomaly": 1.16,
+      "dhw": 0.11
+    },
+    {
+      "date": "2010-05",
+      "sst": 30.27,
+      "sst_anomaly": 1.27,
+      "dhw": 0.73
+    },
+    {
+      "date": "2010-06",
+      "sst": 30.21,
+      "sst_anomaly": 1.32,
+      "dhw": 1.15
+    },
+    {
+      "date": "2010-07",
+      "sst": 30.07,
+      "sst_anomaly": 1.4,
+      "dhw": 1.25
+    },
+    {
+      "date": "2010-08",
+      "sst": 30.03,
+      "sst_anomaly": 1.26,
+      "dhw": 0.75
+    },
+    {
+      "date": "2010-09",
+      "sst": 30.02,
+      "sst_anomaly": 1.25,
+      "dhw": 0.14
+    },
+    {
+      "date": "2010-10",
+      "sst": 30.31,
+      "sst_anomaly": 1.31,
+      "dhw": 0.85
+    },
+    {
+      "date": "2010-11",
+      "sst": 30.34,
+      "sst_anomaly": 1.27,
+      "dhw": 1.31
+    },
+    {
+      "date": "2010-12",
+      "sst": 30.42,
+      "sst_anomaly": 1.36,
+      "dhw": 1.61
+    },
+    {
+      "date": "2011-01",
+      "sst": 30.22,
+      "sst_anomaly": 1.61,
+      "dhw": 1.61
+    },
+    {
+      "date": "2011-02",
+      "sst": 29.34,
+      "sst_anomaly": 1.04,
+      "dhw": 0.98
+    },
+    {
+      "date": "2011-03",
+      "sst": 29.77,
+      "sst_anomaly": 1.28,
+      "dhw": 0.27
+    },
+    {
+      "date": "2011-04",
+      "sst": 29.82,
+      "sst_anomaly": 0.82,
+      "dhw": 0.23
+    },
+    {
+      "date": "2011-05",
+      "sst": 30.03,
+      "sst_anomaly": 0.91,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-06",
+      "sst": 29.39,
+      "sst_anomaly": 0.47,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-07",
+      "sst": 29.0,
+      "sst_anomaly": 0.34,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-08",
+      "sst": 29.48,
+      "sst_anomaly": 0.71,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-09",
+      "sst": 29.43,
+      "sst_anomaly": 0.58,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-10",
+      "sst": 29.64,
+      "sst_anomaly": 0.59,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-11",
+      "sst": 30.15,
+      "sst_anomaly": 1.03,
+      "dhw": 0.21
+    },
+    {
+      "date": "2011-12",
+      "sst": 30.14,
+      "sst_anomaly": 1.23,
+      "dhw": 0.33
+    },
+    {
+      "date": "2012-01",
+      "sst": 29.68,
+      "sst_anomaly": 1.24,
+      "dhw": 0.33
+    },
+    {
+      "date": "2012-02",
+      "sst": 29.49,
+      "sst_anomaly": 1.14,
+      "dhw": 0.33
+    },
+    {
+      "date": "2012-03",
+      "sst": 29.55,
+      "sst_anomaly": 1.13,
+      "dhw": 0.11
+    },
+    {
+      "date": "2012-04",
+      "sst": 29.9,
+      "sst_anomaly": 0.94,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-05",
+      "sst": 30.0,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-06",
+      "sst": 29.85,
+      "sst_anomaly": 0.94,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-07",
+      "sst": 29.47,
+      "sst_anomaly": 0.81,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-08",
+      "sst": 28.77,
+      "sst_anomaly": 0.06,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-09",
+      "sst": 29.82,
+      "sst_anomaly": 1.03,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-10",
+      "sst": 29.7,
+      "sst_anomaly": 0.78,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-11",
+      "sst": 29.74,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-12",
+      "sst": 30.17,
+      "sst_anomaly": 1.18,
+      "dhw": 0.07
+    },
+    {
+      "date": "2013-01",
+      "sst": 29.39,
+      "sst_anomaly": 0.66,
+      "dhw": 0.07
+    },
+    {
+      "date": "2013-02",
+      "sst": 29.21,
+      "sst_anomaly": 0.85,
+      "dhw": 0.07
+    },
+    {
+      "date": "2013-03",
+      "sst": 29.73,
+      "sst_anomaly": 1.08,
+      "dhw": 0.07
+    },
+    {
+      "date": "2013-04",
+      "sst": 29.92,
+      "sst_anomaly": 1.06,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-05",
+      "sst": 29.86,
+      "sst_anomaly": 0.83,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-06",
+      "sst": 30.01,
+      "sst_anomaly": 1.22,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-07",
+      "sst": 29.8,
+      "sst_anomaly": 1.09,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-08",
+      "sst": 29.08,
+      "sst_anomaly": 0.32,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-09",
+      "sst": 29.46,
+      "sst_anomaly": 0.61,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-10",
+      "sst": 29.61,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-11",
+      "sst": 29.84,
+      "sst_anomaly": 0.76,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-12",
+      "sst": 30.17,
+      "sst_anomaly": 1.18,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-01",
+      "sst": 29.59,
+      "sst_anomaly": 0.87,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-02",
+      "sst": 29.16,
+      "sst_anomaly": 0.85,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-03",
+      "sst": 29.59,
+      "sst_anomaly": 0.94,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-04",
+      "sst": 29.53,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-05",
+      "sst": 30.09,
+      "sst_anomaly": 1.11,
+      "dhw": 0.04
+    },
+    {
+      "date": "2014-06",
+      "sst": 30.16,
+      "sst_anomaly": 1.2,
+      "dhw": 0.11
+    },
+    {
+      "date": "2014-07",
+      "sst": 29.42,
+      "sst_anomaly": 0.79,
+      "dhw": 0.11
+    },
+    {
+      "date": "2014-08",
+      "sst": 29.06,
+      "sst_anomaly": 0.34,
+      "dhw": 0.11
+    },
+    {
+      "date": "2014-09",
+      "sst": 29.28,
+      "sst_anomaly": 0.47,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-10",
+      "sst": 29.51,
+      "sst_anomaly": 0.52,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-11",
+      "sst": 29.77,
+      "sst_anomaly": 0.68,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-12",
+      "sst": 29.93,
+      "sst_anomaly": 0.93,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-01",
+      "sst": 29.24,
+      "sst_anomaly": 0.79,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-02",
+      "sst": 28.85,
+      "sst_anomaly": 0.57,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-03",
+      "sst": 29.07,
+      "sst_anomaly": 0.39,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-04",
+      "sst": 29.64,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-05",
+      "sst": 29.98,
+      "sst_anomaly": 1.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-06",
+      "sst": 29.65,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-07",
+      "sst": 28.89,
+      "sst_anomaly": 0.2,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-08",
+      "sst": 28.95,
+      "sst_anomaly": 0.18,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-09",
+      "sst": 29.02,
+      "sst_anomaly": 0.25,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-10",
+      "sst": 29.41,
+      "sst_anomaly": 0.41,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-11",
+      "sst": 29.8,
+      "sst_anomaly": 0.66,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-12",
+      "sst": 29.73,
+      "sst_anomaly": 0.71,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-01",
+      "sst": 29.52,
+      "sst_anomaly": 0.89,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-02",
+      "sst": 29.14,
+      "sst_anomaly": 0.77,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-03",
+      "sst": 29.96,
+      "sst_anomaly": 1.26,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-04",
+      "sst": 29.96,
+      "sst_anomaly": 1.16,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-05",
+      "sst": 30.05,
+      "sst_anomaly": 1.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-06",
+      "sst": 29.98,
+      "sst_anomaly": 1.14,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-07",
+      "sst": 29.91,
+      "sst_anomaly": 1.27,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-08",
+      "sst": 29.85,
+      "sst_anomaly": 1.08,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-09",
+      "sst": 29.93,
+      "sst_anomaly": 1.14,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-10",
+      "sst": 30.05,
+      "sst_anomaly": 1.12,
+      "dhw": 0.04
+    },
+    {
+      "date": "2016-11",
+      "sst": 30.96,
+      "sst_anomaly": 1.89,
+      "dhw": 1.1
+    },
+    {
+      "date": "2016-12",
+      "sst": 30.39,
+      "sst_anomaly": 1.42,
+      "dhw": 2.12
+    },
+    {
+      "date": "2017-01",
+      "sst": 30.04,
+      "sst_anomaly": 1.51,
+      "dhw": 2.16
+    },
+    {
+      "date": "2017-02",
+      "sst": 29.66,
+      "sst_anomaly": 1.28,
+      "dhw": 2.16
+    },
+    {
+      "date": "2017-03",
+      "sst": 29.82,
+      "sst_anomaly": 1.21,
+      "dhw": 0.77
+    },
+    {
+      "date": "2017-04",
+      "sst": 30.09,
+      "sst_anomaly": 1.12,
+      "dhw": 0.23
+    },
+    {
+      "date": "2017-05",
+      "sst": 30.26,
+      "sst_anomaly": 1.19,
+      "dhw": 0.68
+    },
+    {
+      "date": "2017-06",
+      "sst": 30.32,
+      "sst_anomaly": 1.42,
+      "dhw": 1.08
+    },
+    {
+      "date": "2017-07",
+      "sst": 29.91,
+      "sst_anomaly": 1.21,
+      "dhw": 1.08
+    },
+    {
+      "date": "2017-08",
+      "sst": 30.14,
+      "sst_anomaly": 1.42,
+      "dhw": 1.01
+    },
+    {
+      "date": "2017-09",
+      "sst": 29.78,
+      "sst_anomaly": 1.01,
+      "dhw": 0.36
+    },
+    {
+      "date": "2017-10",
+      "sst": 30.37,
+      "sst_anomaly": 1.34,
+      "dhw": 1.18
+    },
+    {
+      "date": "2017-11",
+      "sst": 30.77,
+      "sst_anomaly": 1.69,
+      "dhw": 4.33
+    },
+    {
+      "date": "2017-12",
+      "sst": 30.39,
+      "sst_anomaly": 1.52,
+      "dhw": 5.24
+    },
+    {
+      "date": "2018-01",
+      "sst": 30.12,
+      "sst_anomaly": 1.48,
+      "dhw": 5.31
+    },
+    {
+      "date": "2018-02",
+      "sst": 29.96,
+      "sst_anomaly": 1.62,
+      "dhw": 2.65
+    },
+    {
+      "date": "2018-03",
+      "sst": 29.82,
+      "sst_anomaly": 1.43,
+      "dhw": 0.69
+    },
+    {
+      "date": "2018-04",
+      "sst": 30.0,
+      "sst_anomaly": 1.06,
+      "dhw": 0.15
+    },
+    {
+      "date": "2018-05",
+      "sst": 29.84,
+      "sst_anomaly": 0.82,
+      "dhw": 0.12
+    },
+    {
+      "date": "2018-06",
+      "sst": 29.88,
+      "sst_anomaly": 0.99,
+      "dhw": 0.08
+    },
+    {
+      "date": "2018-07",
+      "sst": 29.67,
+      "sst_anomaly": 1.01,
+      "dhw": 0.08
+    },
+    {
+      "date": "2018-08",
+      "sst": 29.72,
+      "sst_anomaly": 0.95,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-09",
+      "sst": 29.77,
+      "sst_anomaly": 0.95,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-10",
+      "sst": 29.82,
+      "sst_anomaly": 0.85,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-11",
+      "sst": 30.05,
+      "sst_anomaly": 0.94,
+      "dhw": 0.04
+    },
+    {
+      "date": "2018-12",
+      "sst": 30.07,
+      "sst_anomaly": 1.06,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-01",
+      "sst": 29.88,
+      "sst_anomaly": 1.22,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-02",
+      "sst": 29.14,
+      "sst_anomaly": 0.82,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-03",
+      "sst": 29.19,
+      "sst_anomaly": 0.58,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-04",
+      "sst": 30.04,
+      "sst_anomaly": 1.12,
+      "dhw": 0.04
+    },
+    {
+      "date": "2019-05",
+      "sst": 30.3,
+      "sst_anomaly": 1.28,
+      "dhw": 1.21
+    },
+    {
+      "date": "2019-06",
+      "sst": 30.09,
+      "sst_anomaly": 1.15,
+      "dhw": 1.33
+    },
+    {
+      "date": "2019-07",
+      "sst": 29.37,
+      "sst_anomaly": 0.65,
+      "dhw": 1.33
+    },
+    {
+      "date": "2019-08",
+      "sst": 29.09,
+      "sst_anomaly": 0.34,
+      "dhw": 1.24
+    },
+    {
+      "date": "2019-09",
+      "sst": 29.12,
+      "sst_anomaly": 0.31,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-10",
+      "sst": 29.76,
+      "sst_anomaly": 0.81,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-11",
+      "sst": 30.43,
+      "sst_anomaly": 1.31,
+      "dhw": 1.29
+    },
+    {
+      "date": "2019-12",
+      "sst": 30.35,
+      "sst_anomaly": 1.32,
+      "dhw": 2.31
+    },
+    {
+      "date": "2020-01",
+      "sst": 29.87,
+      "sst_anomaly": 1.41,
+      "dhw": 2.31
+    },
+    {
+      "date": "2020-02",
+      "sst": 29.75,
+      "sst_anomaly": 1.37,
+      "dhw": 2.28
+    },
+    {
+      "date": "2020-03",
+      "sst": 29.76,
+      "sst_anomaly": 1.31,
+      "dhw": 0.28
+    },
+    {
+      "date": "2020-04",
+      "sst": 30.27,
+      "sst_anomaly": 1.33,
+      "dhw": 0.78
+    },
+    {
+      "date": "2020-05",
+      "sst": 30.43,
+      "sst_anomaly": 1.37,
+      "dhw": 3.16
+    },
+    {
+      "date": "2020-06",
+      "sst": 30.17,
+      "sst_anomaly": 1.29,
+      "dhw": 3.34
+    },
+    {
+      "date": "2020-07",
+      "sst": 30.17,
+      "sst_anomaly": 1.5,
+      "dhw": 3.34
+    },
+    {
+      "date": "2020-08",
+      "sst": 29.91,
+      "sst_anomaly": 1.14,
+      "dhw": 2.38
+    },
+    {
+      "date": "2020-09",
+      "sst": 29.93,
+      "sst_anomaly": 1.12,
+      "dhw": 0.18
+    },
+    {
+      "date": "2020-10",
+      "sst": 30.46,
+      "sst_anomaly": 1.41,
+      "dhw": 0.93
+    },
+    {
+      "date": "2020-11",
+      "sst": 30.55,
+      "sst_anomaly": 1.48,
+      "dhw": 3.42
+    },
+    {
+      "date": "2020-12",
+      "sst": 30.48,
+      "sst_anomaly": 1.49,
+      "dhw": 5.27
+    },
+    {
+      "date": "2021-01",
+      "sst": 29.96,
+      "sst_anomaly": 1.47,
+      "dhw": 5.27
+    },
+    {
+      "date": "2021-02",
+      "sst": 29.8,
+      "sst_anomaly": 1.49,
+      "dhw": 3.05
+    },
+    {
+      "date": "2021-03",
+      "sst": 30.16,
+      "sst_anomaly": 1.48,
+      "dhw": 1.5
+    },
+    {
+      "date": "2021-04",
+      "sst": 30.18,
+      "sst_anomaly": 1.38,
+      "dhw": 0.53
+    },
+    {
+      "date": "2021-05",
+      "sst": 30.12,
+      "sst_anomaly": 1.09,
+      "dhw": 0.59
+    },
+    {
+      "date": "2021-06",
+      "sst": 29.99,
+      "sst_anomaly": 1.11,
+      "dhw": 0.59
+    },
+    {
+      "date": "2021-07",
+      "sst": 30.04,
+      "sst_anomaly": 1.33,
+      "dhw": 0.45
+    },
+    {
+      "date": "2021-08",
+      "sst": 30.25,
+      "sst_anomaly": 1.53,
+      "dhw": 0.43
+    },
+    {
+      "date": "2021-09",
+      "sst": 30.01,
+      "sst_anomaly": 1.21,
+      "dhw": 0.46
+    },
+    {
+      "date": "2021-10",
+      "sst": 30.57,
+      "sst_anomaly": 1.6,
+      "dhw": 3.0
+    },
+    {
+      "date": "2021-11",
+      "sst": 30.48,
+      "sst_anomaly": 1.36,
+      "dhw": 6.83
+    },
+    {
+      "date": "2021-12",
+      "sst": 30.19,
+      "sst_anomaly": 1.13,
+      "dhw": 7.13
+    },
+    {
+      "date": "2022-01",
+      "sst": 29.76,
+      "sst_anomaly": 1.31,
+      "dhw": 7.09
+    },
+    {
+      "date": "2022-02",
+      "sst": 29.59,
+      "sst_anomaly": 1.3,
+      "dhw": 3.44
+    },
+    {
+      "date": "2022-03",
+      "sst": 29.71,
+      "sst_anomaly": 1.2,
+      "dhw": 0.04
+    },
+    {
+      "date": "2022-04",
+      "sst": 30.08,
+      "sst_anomaly": 1.1,
+      "dhw": 0.07
+    },
+    {
+      "date": "2022-05",
+      "sst": 30.32,
+      "sst_anomaly": 1.26,
+      "dhw": 0.82
+    },
+    {
+      "date": "2022-06",
+      "sst": 30.25,
+      "sst_anomaly": 1.49,
+      "dhw": 1.28
+    },
+    {
+      "date": "2022-07",
+      "sst": 29.9,
+      "sst_anomaly": 1.23,
+      "dhw": 1.28
+    },
+    {
+      "date": "2022-08",
+      "sst": 29.89,
+      "sst_anomaly": 1.11,
+      "dhw": 0.61
+    },
+    {
+      "date": "2022-09",
+      "sst": 30.35,
+      "sst_anomaly": 1.56,
+      "dhw": 1.24
+    },
+    {
+      "date": "2022-10",
+      "sst": 30.4,
+      "sst_anomaly": 1.44,
+      "dhw": 2.53
+    },
+    {
+      "date": "2022-11",
+      "sst": 30.41,
+      "sst_anomaly": 1.33,
+      "dhw": 4.07
+    },
+    {
+      "date": "2022-12",
+      "sst": 30.13,
+      "sst_anomaly": 1.15,
+      "dhw": 3.95
+    },
+    {
+      "date": "2023-01",
+      "sst": 29.92,
+      "sst_anomaly": 1.4,
+      "dhw": 2.85
+    },
+    {
+      "date": "2023-02",
+      "sst": 29.39,
+      "sst_anomaly": 1.01,
+      "dhw": 1.02
+    },
+    {
+      "date": "2023-03",
+      "sst": 30.08,
+      "sst_anomaly": 1.51,
+      "dhw": 0.11
+    },
+    {
+      "date": "2023-04",
+      "sst": 30.31,
+      "sst_anomaly": 1.32,
+      "dhw": 0.86
+    },
+    {
+      "date": "2023-05",
+      "sst": 30.34,
+      "sst_anomaly": 1.25,
+      "dhw": 2.82
+    },
+    {
+      "date": "2023-06",
+      "sst": 30.32,
+      "sst_anomaly": 1.45,
+      "dhw": 4.21
+    },
+    {
+      "date": "2023-07",
+      "sst": 30.12,
+      "sst_anomaly": 1.43,
+      "dhw": 4.25
+    },
+    {
+      "date": "2023-08",
+      "sst": 29.67,
+      "sst_anomaly": 0.94,
+      "dhw": 2.79
+    },
+    {
+      "date": "2023-09",
+      "sst": 29.73,
+      "sst_anomaly": 0.89,
+      "dhw": 0.79
+    },
+    {
+      "date": "2023-10",
+      "sst": 30.22,
+      "sst_anomaly": 1.22,
+      "dhw": 0.23
+    },
+    {
+      "date": "2023-11",
+      "sst": 30.34,
+      "sst_anomaly": 1.23,
+      "dhw": 2.53
+    },
+    {
+      "date": "2023-12",
+      "sst": 30.41,
+      "sst_anomaly": 1.51,
+      "dhw": 5.62
+    },
+    {
+      "date": "2024-01",
+      "sst": 30.46,
+      "sst_anomaly": 1.74,
+      "dhw": 6.5
+    },
+    {
+      "date": "2024-02",
+      "sst": 29.71,
+      "sst_anomaly": 1.33,
+      "dhw": 5.59
+    },
+    {
+      "date": "2024-03",
+      "sst": 30.12,
+      "sst_anomaly": 1.41,
+      "dhw": 3.0
+    },
+    {
+      "date": "2024-04",
+      "sst": 30.41,
+      "sst_anomaly": 1.44,
+      "dhw": 0.62
+    },
+    {
+      "date": "2024-05",
+      "sst": 30.54,
+      "sst_anomaly": 1.5,
+      "dhw": 3.11
+    },
+    {
+      "date": "2024-06",
+      "sst": 30.4,
+      "sst_anomaly": 1.45,
+      "dhw": 4.17
+    },
+    {
+      "date": "2024-07",
+      "sst": 29.83,
+      "sst_anomaly": 1.14,
+      "dhw": 4.1
+    },
+    {
+      "date": "2024-08",
+      "sst": 29.84,
+      "sst_anomaly": 1.1,
+      "dhw": 3.55
+    },
+    {
+      "date": "2024-09",
+      "sst": 30.41,
+      "sst_anomaly": 1.57,
+      "dhw": 1.12
+    },
+    {
+      "date": "2024-10",
+      "sst": 30.66,
+      "sst_anomaly": 1.65,
+      "dhw": 5.35
+    },
+    {
+      "date": "2024-11",
+      "sst": 30.73,
+      "sst_anomaly": 1.65,
+      "dhw": 10.77
+    },
+    {
+      "date": "2024-12",
+      "sst": 30.66,
+      "sst_anomaly": 1.59,
+      "dhw": 12.39
+    },
+    {
+      "date": "2025-01",
+      "sst": 30.19,
+      "sst_anomaly": 1.69,
+      "dhw": 10.55
+    },
+    {
+      "date": "2025-02",
+      "sst": 29.85,
+      "sst_anomaly": 1.54,
+      "dhw": 5.71
+    },
+    {
+      "date": "2025-03",
+      "sst": 30.31,
+      "sst_anomaly": 1.63,
+      "dhw": 1.44
+    },
+    {
+      "date": "2025-04",
+      "sst": 30.3,
+      "sst_anomaly": 1.38,
+      "dhw": 1.79
+    },
+    {
+      "date": "2025-05",
+      "sst": 30.58,
+      "sst_anomaly": 1.57,
+      "dhw": 5.21
+    },
+    {
+      "date": "2025-06",
+      "sst": 30.2,
+      "sst_anomaly": 1.4,
+      "dhw": 5.21
+    },
+    {
+      "date": "2025-07",
+      "sst": 30.25,
+      "sst_anomaly": 1.58,
+      "dhw": 4.67
+    },
+    {
+      "date": "2025-08",
+      "sst": 30.3,
+      "sst_anomaly": 1.58,
+      "dhw": 4.06
+    },
+    {
+      "date": "2025-09",
+      "sst": 30.43,
+      "sst_anomaly": 1.61,
+      "dhw": 1.8
+    },
+    {
+      "date": "2025-10",
+      "sst": 30.65,
+      "sst_anomaly": 1.66,
+      "dhw": 5.42
+    },
+    {
+      "date": "2025-11",
+      "sst": 30.62,
+      "sst_anomaly": 1.53,
+      "dhw": 8.2
+    },
+    {
+      "date": "2025-12",
+      "sst": 30.23,
+      "sst_anomaly": 1.17,
+      "dhw": 8.5
+    }
+  ],
+  "Batanta": [
+    {
+      "date": "2010-01",
+      "sst": 29.64,
+      "sst_anomaly": 0.99,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-02",
+      "sst": 29.48,
+      "sst_anomaly": 1.06,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-03",
+      "sst": 29.7,
+      "sst_anomaly": 1.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-04",
+      "sst": 30.01,
+      "sst_anomaly": 1.09,
+      "dhw": 0.37
+    },
+    {
+      "date": "2010-05",
+      "sst": 30.1,
+      "sst_anomaly": 1.39,
+      "dhw": 1.25
+    },
+    {
+      "date": "2010-06",
+      "sst": 30.09,
+      "sst_anomaly": 1.64,
+      "dhw": 1.76
+    },
+    {
+      "date": "2010-07",
+      "sst": 29.88,
+      "sst_anomaly": 1.84,
+      "dhw": 1.78
+    },
+    {
+      "date": "2010-08",
+      "sst": 29.84,
+      "sst_anomaly": 1.7,
+      "dhw": 0.9
+    },
+    {
+      "date": "2010-09",
+      "sst": 29.76,
+      "sst_anomaly": 1.6,
+      "dhw": 0.32
+    },
+    {
+      "date": "2010-10",
+      "sst": 30.12,
+      "sst_anomaly": 1.45,
+      "dhw": 0.7
+    },
+    {
+      "date": "2010-11",
+      "sst": 30.06,
+      "sst_anomaly": 1.21,
+      "dhw": 0.96
+    },
+    {
+      "date": "2010-12",
+      "sst": 30.28,
+      "sst_anomaly": 1.43,
+      "dhw": 1.39
+    },
+    {
+      "date": "2011-01",
+      "sst": 30.11,
+      "sst_anomaly": 1.53,
+      "dhw": 1.73
+    },
+    {
+      "date": "2011-02",
+      "sst": 29.4,
+      "sst_anomaly": 0.98,
+      "dhw": 1.35
+    },
+    {
+      "date": "2011-03",
+      "sst": 29.71,
+      "sst_anomaly": 1.14,
+      "dhw": 0.78
+    },
+    {
+      "date": "2011-04",
+      "sst": 29.77,
+      "sst_anomaly": 0.9,
+      "dhw": 0.65
+    },
+    {
+      "date": "2011-05",
+      "sst": 30.02,
+      "sst_anomaly": 1.12,
+      "dhw": 0.13
+    },
+    {
+      "date": "2011-06",
+      "sst": 29.17,
+      "sst_anomaly": 0.57,
+      "dhw": 0.13
+    },
+    {
+      "date": "2011-07",
+      "sst": 28.72,
+      "sst_anomaly": 0.68,
+      "dhw": 0.13
+    },
+    {
+      "date": "2011-08",
+      "sst": 29.3,
+      "sst_anomaly": 1.22,
+      "dhw": 0.13
+    },
+    {
+      "date": "2011-09",
+      "sst": 29.09,
+      "sst_anomaly": 0.75,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-10",
+      "sst": 29.39,
+      "sst_anomaly": 0.81,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-11",
+      "sst": 29.82,
+      "sst_anomaly": 0.94,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-12",
+      "sst": 30.1,
+      "sst_anomaly": 1.33,
+      "dhw": 0.75
+    },
+    {
+      "date": "2012-01",
+      "sst": 29.49,
+      "sst_anomaly": 1.02,
+      "dhw": 0.75
+    },
+    {
+      "date": "2012-02",
+      "sst": 29.58,
+      "sst_anomaly": 1.14,
+      "dhw": 0.75
+    },
+    {
+      "date": "2012-03",
+      "sst": 29.68,
+      "sst_anomaly": 1.18,
+      "dhw": 0.75
+    },
+    {
+      "date": "2012-04",
+      "sst": 29.92,
+      "sst_anomaly": 0.99,
+      "dhw": 0.08
+    },
+    {
+      "date": "2012-05",
+      "sst": 29.97,
+      "sst_anomaly": 1.12,
+      "dhw": 0.17
+    },
+    {
+      "date": "2012-06",
+      "sst": 29.73,
+      "sst_anomaly": 1.23,
+      "dhw": 0.17
+    },
+    {
+      "date": "2012-07",
+      "sst": 29.12,
+      "sst_anomaly": 1.06,
+      "dhw": 0.17
+    },
+    {
+      "date": "2012-08",
+      "sst": 28.4,
+      "sst_anomaly": 0.26,
+      "dhw": 0.09
+    },
+    {
+      "date": "2012-09",
+      "sst": 29.22,
+      "sst_anomaly": 0.95,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-10",
+      "sst": 29.26,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-11",
+      "sst": 29.56,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-12",
+      "sst": 29.97,
+      "sst_anomaly": 1.15,
+      "dhw": 0.09
+    },
+    {
+      "date": "2013-01",
+      "sst": 29.33,
+      "sst_anomaly": 0.7,
+      "dhw": 0.09
+    },
+    {
+      "date": "2013-02",
+      "sst": 29.39,
+      "sst_anomaly": 0.97,
+      "dhw": 0.09
+    },
+    {
+      "date": "2013-03",
+      "sst": 29.99,
+      "sst_anomaly": 1.31,
+      "dhw": 0.15
+    },
+    {
+      "date": "2013-04",
+      "sst": 29.97,
+      "sst_anomaly": 1.09,
+      "dhw": 0.32
+    },
+    {
+      "date": "2013-05",
+      "sst": 29.81,
+      "sst_anomaly": 1.05,
+      "dhw": 0.32
+    },
+    {
+      "date": "2013-06",
+      "sst": 29.8,
+      "sst_anomaly": 1.35,
+      "dhw": 0.32
+    },
+    {
+      "date": "2013-07",
+      "sst": 29.54,
+      "sst_anomaly": 1.44,
+      "dhw": 0.13
+    },
+    {
+      "date": "2013-08",
+      "sst": 28.86,
+      "sst_anomaly": 0.72,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-09",
+      "sst": 29.1,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-10",
+      "sst": 29.37,
+      "sst_anomaly": 0.75,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-11",
+      "sst": 29.6,
+      "sst_anomaly": 0.82,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-12",
+      "sst": 30.03,
+      "sst_anomaly": 1.21,
+      "dhw": 0.14
+    },
+    {
+      "date": "2014-01",
+      "sst": 29.29,
+      "sst_anomaly": 0.63,
+      "dhw": 0.14
+    },
+    {
+      "date": "2014-02",
+      "sst": 28.92,
+      "sst_anomaly": 0.52,
+      "dhw": 0.14
+    },
+    {
+      "date": "2014-03",
+      "sst": 29.71,
+      "sst_anomaly": 0.99,
+      "dhw": 0.14
+    },
+    {
+      "date": "2014-04",
+      "sst": 29.41,
+      "sst_anomaly": 0.51,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-05",
+      "sst": 29.8,
+      "sst_anomaly": 1.16,
+      "dhw": 0.02
+    },
+    {
+      "date": "2014-06",
+      "sst": 29.88,
+      "sst_anomaly": 1.29,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-07",
+      "sst": 29.1,
+      "sst_anomaly": 1.04,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-08",
+      "sst": 28.74,
+      "sst_anomaly": 0.68,
+      "dhw": 0.08
+    },
+    {
+      "date": "2014-09",
+      "sst": 28.91,
+      "sst_anomaly": 0.61,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-10",
+      "sst": 29.21,
+      "sst_anomaly": 0.55,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-11",
+      "sst": 29.53,
+      "sst_anomaly": 0.66,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-12",
+      "sst": 29.63,
+      "sst_anomaly": 0.87,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-01",
+      "sst": 29.21,
+      "sst_anomaly": 0.55,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-02",
+      "sst": 28.91,
+      "sst_anomaly": 0.54,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-03",
+      "sst": 29.13,
+      "sst_anomaly": 0.38,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-04",
+      "sst": 29.35,
+      "sst_anomaly": 0.41,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-05",
+      "sst": 29.66,
+      "sst_anomaly": 1.04,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-06",
+      "sst": 29.32,
+      "sst_anomaly": 0.73,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-07",
+      "sst": 28.7,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-08",
+      "sst": 28.57,
+      "sst_anomaly": 0.44,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-09",
+      "sst": 28.72,
+      "sst_anomaly": 0.48,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-10",
+      "sst": 28.94,
+      "sst_anomaly": 0.22,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-11",
+      "sst": 29.4,
+      "sst_anomaly": 0.56,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-12",
+      "sst": 29.47,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-01",
+      "sst": 29.26,
+      "sst_anomaly": 0.72,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-02",
+      "sst": 29.2,
+      "sst_anomaly": 0.73,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-03",
+      "sst": 29.68,
+      "sst_anomaly": 1.17,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-04",
+      "sst": 29.71,
+      "sst_anomaly": 0.77,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-05",
+      "sst": 29.91,
+      "sst_anomaly": 1.05,
+      "dhw": 0.06
+    },
+    {
+      "date": "2016-06",
+      "sst": 29.71,
+      "sst_anomaly": 1.34,
+      "dhw": 0.06
+    },
+    {
+      "date": "2016-07",
+      "sst": 29.67,
+      "sst_anomaly": 1.61,
+      "dhw": 0.06
+    },
+    {
+      "date": "2016-08",
+      "sst": 29.37,
+      "sst_anomaly": 1.24,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-09",
+      "sst": 29.72,
+      "sst_anomaly": 1.44,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-10",
+      "sst": 29.69,
+      "sst_anomaly": 1.25,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-11",
+      "sst": 29.99,
+      "sst_anomaly": 1.12,
+      "dhw": 0.35
+    },
+    {
+      "date": "2016-12",
+      "sst": 30.07,
+      "sst_anomaly": 1.33,
+      "dhw": 1.08
+    },
+    {
+      "date": "2017-01",
+      "sst": 29.84,
+      "sst_anomaly": 1.39,
+      "dhw": 1.08
+    },
+    {
+      "date": "2017-02",
+      "sst": 29.61,
+      "sst_anomaly": 1.17,
+      "dhw": 1.08
+    },
+    {
+      "date": "2017-03",
+      "sst": 29.54,
+      "sst_anomaly": 1.03,
+      "dhw": 0.64
+    },
+    {
+      "date": "2017-04",
+      "sst": 29.46,
+      "sst_anomaly": 0.6,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-05",
+      "sst": 29.99,
+      "sst_anomaly": 1.19,
+      "dhw": 0.22
+    },
+    {
+      "date": "2017-06",
+      "sst": 29.73,
+      "sst_anomaly": 1.25,
+      "dhw": 0.22
+    },
+    {
+      "date": "2017-07",
+      "sst": 29.69,
+      "sst_anomaly": 1.59,
+      "dhw": 0.22
+    },
+    {
+      "date": "2017-08",
+      "sst": 29.41,
+      "sst_anomaly": 1.35,
+      "dhw": 0.22
+    },
+    {
+      "date": "2017-09",
+      "sst": 29.43,
+      "sst_anomaly": 1.27,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-10",
+      "sst": 29.7,
+      "sst_anomaly": 1.16,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-11",
+      "sst": 30.06,
+      "sst_anomaly": 1.21,
+      "dhw": 1.24
+    },
+    {
+      "date": "2017-12",
+      "sst": 29.91,
+      "sst_anomaly": 1.09,
+      "dhw": 1.28
+    },
+    {
+      "date": "2018-01",
+      "sst": 29.86,
+      "sst_anomaly": 1.31,
+      "dhw": 1.28
+    },
+    {
+      "date": "2018-02",
+      "sst": 29.65,
+      "sst_anomaly": 1.2,
+      "dhw": 1.04
+    },
+    {
+      "date": "2018-03",
+      "sst": 29.5,
+      "sst_anomaly": 1.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-04",
+      "sst": 29.64,
+      "sst_anomaly": 0.7,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-05",
+      "sst": 29.58,
+      "sst_anomaly": 0.75,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-06",
+      "sst": 29.37,
+      "sst_anomaly": 1.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-07",
+      "sst": 29.24,
+      "sst_anomaly": 1.18,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-08",
+      "sst": 29.4,
+      "sst_anomaly": 1.26,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-09",
+      "sst": 29.27,
+      "sst_anomaly": 1.12,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-10",
+      "sst": 29.37,
+      "sst_anomaly": 0.71,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-11",
+      "sst": 29.43,
+      "sst_anomaly": 0.58,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-12",
+      "sst": 29.84,
+      "sst_anomaly": 1.0,
+      "dhw": 0.02
+    },
+    {
+      "date": "2019-01",
+      "sst": 29.17,
+      "sst_anomaly": 0.58,
+      "dhw": 0.02
+    },
+    {
+      "date": "2019-02",
+      "sst": 28.98,
+      "sst_anomaly": 0.57,
+      "dhw": 0.02
+    },
+    {
+      "date": "2019-03",
+      "sst": 29.02,
+      "sst_anomaly": 0.31,
+      "dhw": 0.02
+    },
+    {
+      "date": "2019-04",
+      "sst": 29.72,
+      "sst_anomaly": 0.79,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-05",
+      "sst": 29.46,
+      "sst_anomaly": 0.8,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-06",
+      "sst": 29.4,
+      "sst_anomaly": 0.81,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-07",
+      "sst": 28.83,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-08",
+      "sst": 28.47,
+      "sst_anomaly": 0.39,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-09",
+      "sst": 28.49,
+      "sst_anomaly": 0.24,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-10",
+      "sst": 29.51,
+      "sst_anomaly": 0.79,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-11",
+      "sst": 29.57,
+      "sst_anomaly": 0.7,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-12",
+      "sst": 29.85,
+      "sst_anomaly": 1.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-01",
+      "sst": 29.51,
+      "sst_anomaly": 0.92,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-02",
+      "sst": 29.26,
+      "sst_anomaly": 0.86,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-03",
+      "sst": 29.78,
+      "sst_anomaly": 1.27,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-04",
+      "sst": 29.96,
+      "sst_anomaly": 1.03,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-05",
+      "sst": 29.81,
+      "sst_anomaly": 1.04,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-06",
+      "sst": 29.65,
+      "sst_anomaly": 1.32,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-07",
+      "sst": 29.62,
+      "sst_anomaly": 1.61,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-08",
+      "sst": 29.47,
+      "sst_anomaly": 1.36,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-09",
+      "sst": 29.72,
+      "sst_anomaly": 1.43,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-10",
+      "sst": 29.88,
+      "sst_anomaly": 1.24,
+      "dhw": 0.13
+    },
+    {
+      "date": "2020-11",
+      "sst": 30.07,
+      "sst_anomaly": 1.25,
+      "dhw": 0.9
+    },
+    {
+      "date": "2020-12",
+      "sst": 30.11,
+      "sst_anomaly": 1.28,
+      "dhw": 2.04
+    },
+    {
+      "date": "2021-01",
+      "sst": 29.51,
+      "sst_anomaly": 1.0,
+      "dhw": 2.04
+    },
+    {
+      "date": "2021-02",
+      "sst": 29.65,
+      "sst_anomaly": 1.27,
+      "dhw": 1.4
+    },
+    {
+      "date": "2021-03",
+      "sst": 30.0,
+      "sst_anomaly": 1.29,
+      "dhw": 1.02
+    },
+    {
+      "date": "2021-04",
+      "sst": 29.86,
+      "sst_anomaly": 1.07,
+      "dhw": 0.17
+    },
+    {
+      "date": "2021-05",
+      "sst": 29.81,
+      "sst_anomaly": 1.04,
+      "dhw": 0.17
+    },
+    {
+      "date": "2021-06",
+      "sst": 29.52,
+      "sst_anomaly": 1.17,
+      "dhw": 0.17
+    },
+    {
+      "date": "2021-07",
+      "sst": 29.65,
+      "sst_anomaly": 1.6,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-08",
+      "sst": 29.74,
+      "sst_anomaly": 1.65,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-09",
+      "sst": 29.65,
+      "sst_anomaly": 1.5,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-10",
+      "sst": 30.05,
+      "sst_anomaly": 1.4,
+      "dhw": 0.8
+    },
+    {
+      "date": "2021-11",
+      "sst": 30.05,
+      "sst_anomaly": 1.2,
+      "dhw": 1.9
+    },
+    {
+      "date": "2021-12",
+      "sst": 29.79,
+      "sst_anomaly": 0.94,
+      "dhw": 1.9
+    },
+    {
+      "date": "2022-01",
+      "sst": 29.48,
+      "sst_anomaly": 1.0,
+      "dhw": 1.9
+    },
+    {
+      "date": "2022-02",
+      "sst": 29.47,
+      "sst_anomaly": 1.11,
+      "dhw": 0.86
+    },
+    {
+      "date": "2022-03",
+      "sst": 29.48,
+      "sst_anomaly": 0.86,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-04",
+      "sst": 29.8,
+      "sst_anomaly": 0.86,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-05",
+      "sst": 30.07,
+      "sst_anomaly": 1.18,
+      "dhw": 0.58
+    },
+    {
+      "date": "2022-06",
+      "sst": 29.87,
+      "sst_anomaly": 1.61,
+      "dhw": 0.65
+    },
+    {
+      "date": "2022-07",
+      "sst": 29.56,
+      "sst_anomaly": 1.52,
+      "dhw": 0.65
+    },
+    {
+      "date": "2022-08",
+      "sst": 29.5,
+      "sst_anomaly": 1.4,
+      "dhw": 0.4
+    },
+    {
+      "date": "2022-09",
+      "sst": 29.86,
+      "sst_anomaly": 1.68,
+      "dhw": 0.11
+    },
+    {
+      "date": "2022-10",
+      "sst": 30.06,
+      "sst_anomaly": 1.6,
+      "dhw": 0.24
+    },
+    {
+      "date": "2022-11",
+      "sst": 29.95,
+      "sst_anomaly": 1.1,
+      "dhw": 0.33
+    },
+    {
+      "date": "2022-12",
+      "sst": 29.85,
+      "sst_anomaly": 1.11,
+      "dhw": 0.33
+    },
+    {
+      "date": "2023-01",
+      "sst": 29.65,
+      "sst_anomaly": 1.01,
+      "dhw": 0.15
+    },
+    {
+      "date": "2023-02",
+      "sst": 29.3,
+      "sst_anomaly": 0.86,
+      "dhw": 0.08
+    },
+    {
+      "date": "2023-03",
+      "sst": 29.71,
+      "sst_anomaly": 1.04,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-04",
+      "sst": 29.88,
+      "sst_anomaly": 0.96,
+      "dhw": 0.13
+    },
+    {
+      "date": "2023-05",
+      "sst": 30.0,
+      "sst_anomaly": 1.1,
+      "dhw": 0.73
+    },
+    {
+      "date": "2023-06",
+      "sst": 29.95,
+      "sst_anomaly": 1.59,
+      "dhw": 0.95
+    },
+    {
+      "date": "2023-07",
+      "sst": 29.56,
+      "sst_anomaly": 1.51,
+      "dhw": 0.95
+    },
+    {
+      "date": "2023-08",
+      "sst": 29.34,
+      "sst_anomaly": 1.27,
+      "dhw": 0.58
+    },
+    {
+      "date": "2023-09",
+      "sst": 29.15,
+      "sst_anomaly": 0.93,
+      "dhw": 0.22
+    },
+    {
+      "date": "2023-10",
+      "sst": 29.45,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-11",
+      "sst": 29.74,
+      "sst_anomaly": 0.88,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-12",
+      "sst": 29.68,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-01",
+      "sst": 29.81,
+      "sst_anomaly": 1.19,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-02",
+      "sst": 29.56,
+      "sst_anomaly": 1.09,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-03",
+      "sst": 29.79,
+      "sst_anomaly": 1.22,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-04",
+      "sst": 30.14,
+      "sst_anomaly": 1.21,
+      "dhw": 0.63
+    },
+    {
+      "date": "2024-05",
+      "sst": 29.93,
+      "sst_anomaly": 1.13,
+      "dhw": 0.9
+    },
+    {
+      "date": "2024-06",
+      "sst": 29.71,
+      "sst_anomaly": 1.32,
+      "dhw": 0.9
+    },
+    {
+      "date": "2024-07",
+      "sst": 29.41,
+      "sst_anomaly": 1.31,
+      "dhw": 0.75
+    },
+    {
+      "date": "2024-08",
+      "sst": 29.47,
+      "sst_anomaly": 1.34,
+      "dhw": 0.27
+    },
+    {
+      "date": "2024-09",
+      "sst": 29.81,
+      "sst_anomaly": 1.51,
+      "dhw": 0.02
+    },
+    {
+      "date": "2024-10",
+      "sst": 30.08,
+      "sst_anomaly": 1.5,
+      "dhw": 1.12
+    },
+    {
+      "date": "2024-11",
+      "sst": 30.19,
+      "sst_anomaly": 1.36,
+      "dhw": 3.81
+    },
+    {
+      "date": "2024-12",
+      "sst": 30.27,
+      "sst_anomaly": 1.44,
+      "dhw": 5.51
+    },
+    {
+      "date": "2025-01",
+      "sst": 29.85,
+      "sst_anomaly": 1.36,
+      "dhw": 5.36
+    },
+    {
+      "date": "2025-02",
+      "sst": 29.67,
+      "sst_anomaly": 1.27,
+      "dhw": 3.92
+    },
+    {
+      "date": "2025-03",
+      "sst": 30.08,
+      "sst_anomaly": 1.41,
+      "dhw": 1.27
+    },
+    {
+      "date": "2025-04",
+      "sst": 30.01,
+      "sst_anomaly": 1.14,
+      "dhw": 1.48
+    },
+    {
+      "date": "2025-05",
+      "sst": 30.13,
+      "sst_anomaly": 1.36,
+      "dhw": 3.26
+    },
+    {
+      "date": "2025-06",
+      "sst": 29.81,
+      "sst_anomaly": 1.43,
+      "dhw": 3.26
+    },
+    {
+      "date": "2025-07",
+      "sst": 29.83,
+      "sst_anomaly": 1.79,
+      "dhw": 2.41
+    },
+    {
+      "date": "2025-08",
+      "sst": 29.76,
+      "sst_anomaly": 1.7,
+      "dhw": 1.66
+    },
+    {
+      "date": "2025-09",
+      "sst": 29.89,
+      "sst_anomaly": 1.61,
+      "dhw": 0.25
+    },
+    {
+      "date": "2025-10",
+      "sst": 30.2,
+      "sst_anomaly": 1.57,
+      "dhw": 2.84
+    },
+    {
+      "date": "2025-11",
+      "sst": 30.09,
+      "sst_anomaly": 1.27,
+      "dhw": 4.0
+    },
+    {
+      "date": "2025-12",
+      "sst": 29.98,
+      "sst_anomaly": 1.13,
+      "dhw": 4.15
+    }
+  ],
+  "Misool": [
+    {
+      "date": "2010-01",
+      "sst": 29.91,
+      "sst_anomaly": 1.03,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-02",
+      "sst": 29.75,
+      "sst_anomaly": 1.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-03",
+      "sst": 29.97,
+      "sst_anomaly": 1.17,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-04",
+      "sst": 30.21,
+      "sst_anomaly": 1.15,
+      "dhw": 0.6
+    },
+    {
+      "date": "2010-05",
+      "sst": 30.23,
+      "sst_anomaly": 1.46,
+      "dhw": 1.64
+    },
+    {
+      "date": "2010-06",
+      "sst": 29.51,
+      "sst_anomaly": 1.62,
+      "dhw": 1.64
+    },
+    {
+      "date": "2010-07",
+      "sst": 29.25,
+      "sst_anomaly": 2.17,
+      "dhw": 1.64
+    },
+    {
+      "date": "2010-08",
+      "sst": 29.29,
+      "sst_anomaly": 2.15,
+      "dhw": 0.21
+    },
+    {
+      "date": "2010-09",
+      "sst": 29.43,
+      "sst_anomaly": 1.99,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-10",
+      "sst": 30.17,
+      "sst_anomaly": 1.78,
+      "dhw": 0.3
+    },
+    {
+      "date": "2010-11",
+      "sst": 30.38,
+      "sst_anomaly": 1.68,
+      "dhw": 0.9
+    },
+    {
+      "date": "2010-12",
+      "sst": 30.08,
+      "sst_anomaly": 1.25,
+      "dhw": 1.03
+    },
+    {
+      "date": "2011-01",
+      "sst": 30.21,
+      "sst_anomaly": 1.33,
+      "dhw": 1.25
+    },
+    {
+      "date": "2011-02",
+      "sst": 29.64,
+      "sst_anomaly": 0.91,
+      "dhw": 0.79
+    },
+    {
+      "date": "2011-03",
+      "sst": 29.84,
+      "sst_anomaly": 1.04,
+      "dhw": 0.21
+    },
+    {
+      "date": "2011-04",
+      "sst": 29.89,
+      "sst_anomaly": 0.94,
+      "dhw": 0.21
+    },
+    {
+      "date": "2011-05",
+      "sst": 29.86,
+      "sst_anomaly": 0.91,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-06",
+      "sst": 28.85,
+      "sst_anomaly": 0.69,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-07",
+      "sst": 27.6,
+      "sst_anomaly": 0.49,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-08",
+      "sst": 27.83,
+      "sst_anomaly": 0.83,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-09",
+      "sst": 28.72,
+      "sst_anomaly": 1.06,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-10",
+      "sst": 29.53,
+      "sst_anomaly": 1.08,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-11",
+      "sst": 30.05,
+      "sst_anomaly": 1.24,
+      "dhw": 0.06
+    },
+    {
+      "date": "2011-12",
+      "sst": 29.78,
+      "sst_anomaly": 0.92,
+      "dhw": 0.06
+    },
+    {
+      "date": "2012-01",
+      "sst": 30.08,
+      "sst_anomaly": 1.26,
+      "dhw": 0.13
+    },
+    {
+      "date": "2012-02",
+      "sst": 29.91,
+      "sst_anomaly": 1.16,
+      "dhw": 0.13
+    },
+    {
+      "date": "2012-03",
+      "sst": 30.36,
+      "sst_anomaly": 1.59,
+      "dhw": 0.59
+    },
+    {
+      "date": "2012-04",
+      "sst": 30.29,
+      "sst_anomaly": 1.24,
+      "dhw": 0.84
+    },
+    {
+      "date": "2012-05",
+      "sst": 29.94,
+      "sst_anomaly": 1.16,
+      "dhw": 0.84
+    },
+    {
+      "date": "2012-06",
+      "sst": 29.01,
+      "sst_anomaly": 0.92,
+      "dhw": 0.32
+    },
+    {
+      "date": "2012-07",
+      "sst": 27.92,
+      "sst_anomaly": 0.86,
+      "dhw": 0.32
+    },
+    {
+      "date": "2012-08",
+      "sst": 27.61,
+      "sst_anomaly": 0.48,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-09",
+      "sst": 28.45,
+      "sst_anomaly": 0.84,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-10",
+      "sst": 29.06,
+      "sst_anomaly": 1.05,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-11",
+      "sst": 29.46,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-12",
+      "sst": 29.95,
+      "sst_anomaly": 1.1,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-01",
+      "sst": 29.39,
+      "sst_anomaly": 0.51,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-02",
+      "sst": 29.67,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-03",
+      "sst": 30.02,
+      "sst_anomaly": 1.14,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-04",
+      "sst": 30.45,
+      "sst_anomaly": 1.43,
+      "dhw": 0.19
+    },
+    {
+      "date": "2013-05",
+      "sst": 29.8,
+      "sst_anomaly": 1.26,
+      "dhw": 0.19
+    },
+    {
+      "date": "2013-06",
+      "sst": 29.53,
+      "sst_anomaly": 1.84,
+      "dhw": 0.19
+    },
+    {
+      "date": "2013-07",
+      "sst": 28.72,
+      "sst_anomaly": 1.44,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-08",
+      "sst": 28.15,
+      "sst_anomaly": 1.13,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-09",
+      "sst": 28.81,
+      "sst_anomaly": 1.1,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-10",
+      "sst": 29.14,
+      "sst_anomaly": 0.98,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-11",
+      "sst": 29.46,
+      "sst_anomaly": 0.77,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-12",
+      "sst": 29.78,
+      "sst_anomaly": 0.92,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-01",
+      "sst": 29.41,
+      "sst_anomaly": 0.53,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-02",
+      "sst": 29.5,
+      "sst_anomaly": 0.76,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-03",
+      "sst": 29.71,
+      "sst_anomaly": 0.8,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-04",
+      "sst": 29.9,
+      "sst_anomaly": 0.93,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-05",
+      "sst": 29.86,
+      "sst_anomaly": 0.93,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-06",
+      "sst": 29.21,
+      "sst_anomaly": 0.93,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-07",
+      "sst": 27.75,
+      "sst_anomaly": 0.34,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-08",
+      "sst": 27.08,
+      "sst_anomaly": 0.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-09",
+      "sst": 27.98,
+      "sst_anomaly": 0.29,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-10",
+      "sst": 28.44,
+      "sst_anomaly": 0.26,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-11",
+      "sst": 29.63,
+      "sst_anomaly": 0.8,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-12",
+      "sst": 29.75,
+      "sst_anomaly": 0.89,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-01",
+      "sst": 29.34,
+      "sst_anomaly": 0.48,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-02",
+      "sst": 29.27,
+      "sst_anomaly": 0.55,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-03",
+      "sst": 29.44,
+      "sst_anomaly": 0.49,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-04",
+      "sst": 29.66,
+      "sst_anomaly": 0.57,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-05",
+      "sst": 29.31,
+      "sst_anomaly": 0.98,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-06",
+      "sst": 28.71,
+      "sst_anomaly": 0.46,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-07",
+      "sst": 26.88,
+      "sst_anomaly": -0.31,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-08",
+      "sst": 26.66,
+      "sst_anomaly": -0.5,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-09",
+      "sst": 26.94,
+      "sst_anomaly": -0.45,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-10",
+      "sst": 28.28,
+      "sst_anomaly": -0.19,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-11",
+      "sst": 29.55,
+      "sst_anomaly": 0.74,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-12",
+      "sst": 29.86,
+      "sst_anomaly": 1.01,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-01",
+      "sst": 29.94,
+      "sst_anomaly": 1.08,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-02",
+      "sst": 29.7,
+      "sst_anomaly": 0.94,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-03",
+      "sst": 29.92,
+      "sst_anomaly": 1.13,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-04",
+      "sst": 30.16,
+      "sst_anomaly": 1.19,
+      "dhw": 0.28
+    },
+    {
+      "date": "2016-05",
+      "sst": 30.19,
+      "sst_anomaly": 1.44,
+      "dhw": 0.55
+    },
+    {
+      "date": "2016-06",
+      "sst": 29.44,
+      "sst_anomaly": 1.38,
+      "dhw": 0.55
+    },
+    {
+      "date": "2016-07",
+      "sst": 28.72,
+      "sst_anomaly": 1.54,
+      "dhw": 0.55
+    },
+    {
+      "date": "2016-08",
+      "sst": 28.01,
+      "sst_anomaly": 0.9,
+      "dhw": 0.12
+    },
+    {
+      "date": "2016-09",
+      "sst": 29.13,
+      "sst_anomaly": 1.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-10",
+      "sst": 29.48,
+      "sst_anomaly": 1.36,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-11",
+      "sst": 30.18,
+      "sst_anomaly": 1.38,
+      "dhw": 0.34
+    },
+    {
+      "date": "2016-12",
+      "sst": 30.38,
+      "sst_anomaly": 1.5,
+      "dhw": 1.45
+    },
+    {
+      "date": "2017-01",
+      "sst": 30.19,
+      "sst_anomaly": 1.38,
+      "dhw": 1.74
+    },
+    {
+      "date": "2017-02",
+      "sst": 29.99,
+      "sst_anomaly": 1.21,
+      "dhw": 1.74
+    },
+    {
+      "date": "2017-03",
+      "sst": 29.72,
+      "sst_anomaly": 0.88,
+      "dhw": 1.4
+    },
+    {
+      "date": "2017-04",
+      "sst": 29.84,
+      "sst_anomaly": 0.81,
+      "dhw": 0.29
+    },
+    {
+      "date": "2017-05",
+      "sst": 29.73,
+      "sst_anomaly": 1.01,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-06",
+      "sst": 29.36,
+      "sst_anomaly": 1.26,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-07",
+      "sst": 28.96,
+      "sst_anomaly": 1.67,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-08",
+      "sst": 28.18,
+      "sst_anomaly": 1.18,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-09",
+      "sst": 28.69,
+      "sst_anomaly": 1.36,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-10",
+      "sst": 29.74,
+      "sst_anomaly": 1.32,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-11",
+      "sst": 30.09,
+      "sst_anomaly": 1.55,
+      "dhw": 0.17
+    },
+    {
+      "date": "2017-12",
+      "sst": 29.93,
+      "sst_anomaly": 1.07,
+      "dhw": 0.17
+    },
+    {
+      "date": "2018-01",
+      "sst": 30.32,
+      "sst_anomaly": 1.44,
+      "dhw": 1.09
+    },
+    {
+      "date": "2018-02",
+      "sst": 29.9,
+      "sst_anomaly": 1.16,
+      "dhw": 1.07
+    },
+    {
+      "date": "2018-03",
+      "sst": 29.75,
+      "sst_anomaly": 0.99,
+      "dhw": 0.97
+    },
+    {
+      "date": "2018-04",
+      "sst": 30.06,
+      "sst_anomaly": 1.02,
+      "dhw": 0.82
+    },
+    {
+      "date": "2018-05",
+      "sst": 29.65,
+      "sst_anomaly": 0.84,
+      "dhw": 0.08
+    },
+    {
+      "date": "2018-06",
+      "sst": 28.94,
+      "sst_anomaly": 0.69,
+      "dhw": 0.08
+    },
+    {
+      "date": "2018-07",
+      "sst": 28.0,
+      "sst_anomaly": 0.91,
+      "dhw": 0.08
+    },
+    {
+      "date": "2018-08",
+      "sst": 27.92,
+      "sst_anomaly": 0.92,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-09",
+      "sst": 28.36,
+      "sst_anomaly": 0.83,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-10",
+      "sst": 29.43,
+      "sst_anomaly": 1.07,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-11",
+      "sst": 29.98,
+      "sst_anomaly": 1.22,
+      "dhw": 0.09
+    },
+    {
+      "date": "2018-12",
+      "sst": 29.72,
+      "sst_anomaly": 0.87,
+      "dhw": 0.09
+    },
+    {
+      "date": "2019-01",
+      "sst": 29.56,
+      "sst_anomaly": 0.7,
+      "dhw": 0.09
+    },
+    {
+      "date": "2019-02",
+      "sst": 29.42,
+      "sst_anomaly": 0.63,
+      "dhw": 0.09
+    },
+    {
+      "date": "2019-03",
+      "sst": 29.47,
+      "sst_anomaly": 0.56,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-04",
+      "sst": 30.12,
+      "sst_anomaly": 1.05,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-05",
+      "sst": 29.53,
+      "sst_anomaly": 0.99,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-06",
+      "sst": 28.91,
+      "sst_anomaly": 0.79,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-07",
+      "sst": 27.75,
+      "sst_anomaly": 0.32,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-08",
+      "sst": 27.17,
+      "sst_anomaly": 0.13,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-09",
+      "sst": 27.56,
+      "sst_anomaly": -0.15,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-10",
+      "sst": 28.89,
+      "sst_anomaly": 0.48,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-11",
+      "sst": 30.08,
+      "sst_anomaly": 1.26,
+      "dhw": 0.11
+    },
+    {
+      "date": "2019-12",
+      "sst": 30.3,
+      "sst_anomaly": 1.45,
+      "dhw": 0.53
+    },
+    {
+      "date": "2020-01",
+      "sst": 30.01,
+      "sst_anomaly": 1.21,
+      "dhw": 0.53
+    },
+    {
+      "date": "2020-02",
+      "sst": 29.94,
+      "sst_anomaly": 1.18,
+      "dhw": 0.53
+    },
+    {
+      "date": "2020-03",
+      "sst": 30.04,
+      "sst_anomaly": 1.27,
+      "dhw": 0.11
+    },
+    {
+      "date": "2020-04",
+      "sst": 30.08,
+      "sst_anomaly": 1.06,
+      "dhw": 0.09
+    },
+    {
+      "date": "2020-05",
+      "sst": 30.18,
+      "sst_anomaly": 1.26,
+      "dhw": 0.32
+    },
+    {
+      "date": "2020-06",
+      "sst": 29.11,
+      "sst_anomaly": 1.03,
+      "dhw": 0.24
+    },
+    {
+      "date": "2020-07",
+      "sst": 28.4,
+      "sst_anomaly": 1.1,
+      "dhw": 0.24
+    },
+    {
+      "date": "2020-08",
+      "sst": 28.43,
+      "sst_anomaly": 1.36,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-09",
+      "sst": 29.07,
+      "sst_anomaly": 1.47,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-10",
+      "sst": 29.76,
+      "sst_anomaly": 1.38,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-11",
+      "sst": 29.94,
+      "sst_anomaly": 1.27,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-12",
+      "sst": 30.12,
+      "sst_anomaly": 1.27,
+      "dhw": 0.11
+    },
+    {
+      "date": "2021-01",
+      "sst": 29.95,
+      "sst_anomaly": 1.1,
+      "dhw": 0.15
+    },
+    {
+      "date": "2021-02",
+      "sst": 29.64,
+      "sst_anomaly": 0.9,
+      "dhw": 0.15
+    },
+    {
+      "date": "2021-03",
+      "sst": 30.15,
+      "sst_anomaly": 1.28,
+      "dhw": 0.26
+    },
+    {
+      "date": "2021-04",
+      "sst": 30.05,
+      "sst_anomaly": 1.04,
+      "dhw": 0.26
+    },
+    {
+      "date": "2021-05",
+      "sst": 30.03,
+      "sst_anomaly": 1.12,
+      "dhw": 0.22
+    },
+    {
+      "date": "2021-06",
+      "sst": 29.23,
+      "sst_anomaly": 1.53,
+      "dhw": 0.22
+    },
+    {
+      "date": "2021-07",
+      "sst": 29.06,
+      "sst_anomaly": 1.92,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-08",
+      "sst": 28.97,
+      "sst_anomaly": 1.95,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-09",
+      "sst": 29.1,
+      "sst_anomaly": 1.74,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-10",
+      "sst": 29.81,
+      "sst_anomaly": 1.58,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-11",
+      "sst": 30.16,
+      "sst_anomaly": 1.5,
+      "dhw": 0.15
+    },
+    {
+      "date": "2021-12",
+      "sst": 29.93,
+      "sst_anomaly": 1.07,
+      "dhw": 0.15
+    },
+    {
+      "date": "2022-01",
+      "sst": 30.09,
+      "sst_anomaly": 1.26,
+      "dhw": 0.22
+    },
+    {
+      "date": "2022-02",
+      "sst": 29.67,
+      "sst_anomaly": 0.92,
+      "dhw": 0.07
+    },
+    {
+      "date": "2022-03",
+      "sst": 30.26,
+      "sst_anomaly": 1.41,
+      "dhw": 0.55
+    },
+    {
+      "date": "2022-04",
+      "sst": 30.23,
+      "sst_anomaly": 1.24,
+      "dhw": 0.64
+    },
+    {
+      "date": "2022-05",
+      "sst": 30.32,
+      "sst_anomaly": 1.45,
+      "dhw": 1.45
+    },
+    {
+      "date": "2022-06",
+      "sst": 29.8,
+      "sst_anomaly": 2.09,
+      "dhw": 1.45
+    },
+    {
+      "date": "2022-07",
+      "sst": 29.63,
+      "sst_anomaly": 2.2,
+      "dhw": 0.98
+    },
+    {
+      "date": "2022-08",
+      "sst": 28.89,
+      "sst_anomaly": 1.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-09",
+      "sst": 29.5,
+      "sst_anomaly": 2.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-10",
+      "sst": 30.26,
+      "sst_anomaly": 1.96,
+      "dhw": 0.55
+    },
+    {
+      "date": "2022-11",
+      "sst": 30.31,
+      "sst_anomaly": 1.71,
+      "dhw": 1.75
+    },
+    {
+      "date": "2022-12",
+      "sst": 30.25,
+      "sst_anomaly": 1.38,
+      "dhw": 2.21
+    },
+    {
+      "date": "2023-01",
+      "sst": 29.98,
+      "sst_anomaly": 1.11,
+      "dhw": 2.21
+    },
+    {
+      "date": "2023-02",
+      "sst": 29.64,
+      "sst_anomaly": 0.87,
+      "dhw": 1.44
+    },
+    {
+      "date": "2023-03",
+      "sst": 30.05,
+      "sst_anomaly": 1.21,
+      "dhw": 0.46
+    },
+    {
+      "date": "2023-04",
+      "sst": 30.17,
+      "sst_anomaly": 1.16,
+      "dhw": 0.32
+    },
+    {
+      "date": "2023-05",
+      "sst": 30.15,
+      "sst_anomaly": 1.32,
+      "dhw": 0.43
+    },
+    {
+      "date": "2023-06",
+      "sst": 29.13,
+      "sst_anomaly": 1.4,
+      "dhw": 0.43
+    },
+    {
+      "date": "2023-07",
+      "sst": 28.87,
+      "sst_anomaly": 1.54,
+      "dhw": 0.34
+    },
+    {
+      "date": "2023-08",
+      "sst": 27.79,
+      "sst_anomaly": 0.78,
+      "dhw": 0.1
+    },
+    {
+      "date": "2023-09",
+      "sst": 28.15,
+      "sst_anomaly": 0.55,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-10",
+      "sst": 29.31,
+      "sst_anomaly": 0.95,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-11",
+      "sst": 30.05,
+      "sst_anomaly": 1.23,
+      "dhw": 0.09
+    },
+    {
+      "date": "2023-12",
+      "sst": 29.89,
+      "sst_anomaly": 1.04,
+      "dhw": 0.09
+    },
+    {
+      "date": "2024-01",
+      "sst": 29.99,
+      "sst_anomaly": 1.12,
+      "dhw": 0.09
+    },
+    {
+      "date": "2024-02",
+      "sst": 30.1,
+      "sst_anomaly": 1.34,
+      "dhw": 0.15
+    },
+    {
+      "date": "2024-03",
+      "sst": 30.34,
+      "sst_anomaly": 1.56,
+      "dhw": 0.54
+    },
+    {
+      "date": "2024-04",
+      "sst": 30.4,
+      "sst_anomaly": 1.4,
+      "dhw": 1.07
+    },
+    {
+      "date": "2024-05",
+      "sst": 30.1,
+      "sst_anomaly": 1.31,
+      "dhw": 1.15
+    },
+    {
+      "date": "2024-06",
+      "sst": 29.3,
+      "sst_anomaly": 1.12,
+      "dhw": 0.61
+    },
+    {
+      "date": "2024-07",
+      "sst": 28.56,
+      "sst_anomaly": 1.38,
+      "dhw": 0.61
+    },
+    {
+      "date": "2024-08",
+      "sst": 28.55,
+      "sst_anomaly": 1.42,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-09",
+      "sst": 29.25,
+      "sst_anomaly": 1.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2024-10",
+      "sst": 30.26,
+      "sst_anomaly": 1.81,
+      "dhw": 0.29
+    },
+    {
+      "date": "2024-11",
+      "sst": 30.56,
+      "sst_anomaly": 1.79,
+      "dhw": 1.81
+    },
+    {
+      "date": "2024-12",
+      "sst": 30.41,
+      "sst_anomaly": 1.57,
+      "dhw": 3.2
+    },
+    {
+      "date": "2025-01",
+      "sst": 30.24,
+      "sst_anomaly": 1.4,
+      "dhw": 3.35
+    },
+    {
+      "date": "2025-02",
+      "sst": 29.9,
+      "sst_anomaly": 1.13,
+      "dhw": 3.06
+    },
+    {
+      "date": "2025-03",
+      "sst": 30.13,
+      "sst_anomaly": 1.32,
+      "dhw": 1.16
+    },
+    {
+      "date": "2025-04",
+      "sst": 30.16,
+      "sst_anomaly": 1.07,
+      "dhw": 0.76
+    },
+    {
+      "date": "2025-05",
+      "sst": 30.06,
+      "sst_anomaly": 1.52,
+      "dhw": 0.34
+    },
+    {
+      "date": "2025-06",
+      "sst": 29.76,
+      "sst_anomaly": 1.84,
+      "dhw": 0.25
+    },
+    {
+      "date": "2025-07",
+      "sst": 29.39,
+      "sst_anomaly": 2.35,
+      "dhw": 0.17
+    },
+    {
+      "date": "2025-08",
+      "sst": 28.98,
+      "sst_anomaly": 1.96,
+      "dhw": 0.0
+    },
+    {
+      "date": "2025-09",
+      "sst": 29.32,
+      "sst_anomaly": 1.63,
+      "dhw": 0.0
+    },
+    {
+      "date": "2025-10",
+      "sst": 30.08,
+      "sst_anomaly": 1.85,
+      "dhw": 0.04
+    },
+    {
+      "date": "2025-11",
+      "sst": 29.98,
+      "sst_anomaly": 1.36,
+      "dhw": 0.04
+    },
+    {
+      "date": "2025-12",
+      "sst": 29.92,
+      "sst_anomaly": 1.05,
+      "dhw": 0.04
+    }
+  ],
+  "Salawati": [
+    {
+      "date": "2010-01",
+      "sst": 29.93,
+      "sst_anomaly": 1.12,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-02",
+      "sst": 29.68,
+      "sst_anomaly": 1.2,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-03",
+      "sst": 29.71,
+      "sst_anomaly": 1.01,
+      "dhw": 0.0
+    },
+    {
+      "date": "2010-04",
+      "sst": 30.05,
+      "sst_anomaly": 1.13,
+      "dhw": 0.21
+    },
+    {
+      "date": "2010-05",
+      "sst": 30.16,
+      "sst_anomaly": 1.38,
+      "dhw": 0.82
+    },
+    {
+      "date": "2010-06",
+      "sst": 30.2,
+      "sst_anomaly": 1.53,
+      "dhw": 1.2
+    },
+    {
+      "date": "2010-07",
+      "sst": 30.0,
+      "sst_anomaly": 1.7,
+      "dhw": 1.2
+    },
+    {
+      "date": "2010-08",
+      "sst": 30.01,
+      "sst_anomaly": 1.63,
+      "dhw": 0.76
+    },
+    {
+      "date": "2010-09",
+      "sst": 29.92,
+      "sst_anomaly": 1.54,
+      "dhw": 0.21
+    },
+    {
+      "date": "2010-10",
+      "sst": 30.3,
+      "sst_anomaly": 1.41,
+      "dhw": 0.98
+    },
+    {
+      "date": "2010-11",
+      "sst": 30.21,
+      "sst_anomaly": 1.18,
+      "dhw": 1.51
+    },
+    {
+      "date": "2010-12",
+      "sst": 30.38,
+      "sst_anomaly": 1.34,
+      "dhw": 2.3
+    },
+    {
+      "date": "2011-01",
+      "sst": 30.3,
+      "sst_anomaly": 1.58,
+      "dhw": 2.48
+    },
+    {
+      "date": "2011-02",
+      "sst": 29.39,
+      "sst_anomaly": 0.92,
+      "dhw": 1.82
+    },
+    {
+      "date": "2011-03",
+      "sst": 29.68,
+      "sst_anomaly": 1.07,
+      "dhw": 0.65
+    },
+    {
+      "date": "2011-04",
+      "sst": 29.8,
+      "sst_anomaly": 0.96,
+      "dhw": 0.5
+    },
+    {
+      "date": "2011-05",
+      "sst": 30.1,
+      "sst_anomaly": 1.11,
+      "dhw": 0.23
+    },
+    {
+      "date": "2011-06",
+      "sst": 29.3,
+      "sst_anomaly": 0.59,
+      "dhw": 0.23
+    },
+    {
+      "date": "2011-07",
+      "sst": 28.84,
+      "sst_anomaly": 0.52,
+      "dhw": 0.23
+    },
+    {
+      "date": "2011-08",
+      "sst": 29.39,
+      "sst_anomaly": 1.01,
+      "dhw": 0.23
+    },
+    {
+      "date": "2011-09",
+      "sst": 29.09,
+      "sst_anomaly": 0.52,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-10",
+      "sst": 29.61,
+      "sst_anomaly": 0.68,
+      "dhw": 0.0
+    },
+    {
+      "date": "2011-11",
+      "sst": 30.05,
+      "sst_anomaly": 1.01,
+      "dhw": 0.07
+    },
+    {
+      "date": "2011-12",
+      "sst": 30.16,
+      "sst_anomaly": 1.17,
+      "dhw": 0.84
+    },
+    {
+      "date": "2012-01",
+      "sst": 29.59,
+      "sst_anomaly": 1.03,
+      "dhw": 0.84
+    },
+    {
+      "date": "2012-02",
+      "sst": 29.7,
+      "sst_anomaly": 1.2,
+      "dhw": 0.84
+    },
+    {
+      "date": "2012-03",
+      "sst": 29.72,
+      "sst_anomaly": 1.17,
+      "dhw": 0.77
+    },
+    {
+      "date": "2012-04",
+      "sst": 29.95,
+      "sst_anomaly": 0.98,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-05",
+      "sst": 30.1,
+      "sst_anomaly": 1.15,
+      "dhw": 0.15
+    },
+    {
+      "date": "2012-06",
+      "sst": 29.8,
+      "sst_anomaly": 1.13,
+      "dhw": 0.15
+    },
+    {
+      "date": "2012-07",
+      "sst": 29.39,
+      "sst_anomaly": 1.09,
+      "dhw": 0.15
+    },
+    {
+      "date": "2012-08",
+      "sst": 28.58,
+      "sst_anomaly": 0.2,
+      "dhw": 0.15
+    },
+    {
+      "date": "2012-09",
+      "sst": 29.36,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-10",
+      "sst": 29.36,
+      "sst_anomaly": 0.49,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-11",
+      "sst": 29.77,
+      "sst_anomaly": 0.73,
+      "dhw": 0.0
+    },
+    {
+      "date": "2012-12",
+      "sst": 30.3,
+      "sst_anomaly": 1.26,
+      "dhw": 0.18
+    },
+    {
+      "date": "2013-01",
+      "sst": 29.5,
+      "sst_anomaly": 0.72,
+      "dhw": 0.18
+    },
+    {
+      "date": "2013-02",
+      "sst": 29.54,
+      "sst_anomaly": 1.02,
+      "dhw": 0.18
+    },
+    {
+      "date": "2013-03",
+      "sst": 29.95,
+      "sst_anomaly": 1.24,
+      "dhw": 0.18
+    },
+    {
+      "date": "2013-04",
+      "sst": 29.96,
+      "sst_anomaly": 1.14,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-05",
+      "sst": 29.8,
+      "sst_anomaly": 1.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-06",
+      "sst": 29.92,
+      "sst_anomaly": 1.41,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-07",
+      "sst": 29.73,
+      "sst_anomaly": 1.32,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-08",
+      "sst": 29.05,
+      "sst_anomaly": 0.67,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-09",
+      "sst": 29.22,
+      "sst_anomaly": 0.84,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-10",
+      "sst": 29.48,
+      "sst_anomaly": 0.63,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-11",
+      "sst": 29.61,
+      "sst_anomaly": 0.66,
+      "dhw": 0.0
+    },
+    {
+      "date": "2013-12",
+      "sst": 30.32,
+      "sst_anomaly": 1.28,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-01",
+      "sst": 29.57,
+      "sst_anomaly": 0.76,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-02",
+      "sst": 29.18,
+      "sst_anomaly": 0.69,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-03",
+      "sst": 29.89,
+      "sst_anomaly": 1.14,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-04",
+      "sst": 29.5,
+      "sst_anomaly": 0.68,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-05",
+      "sst": 30.16,
+      "sst_anomaly": 1.39,
+      "dhw": 0.16
+    },
+    {
+      "date": "2014-06",
+      "sst": 30.18,
+      "sst_anomaly": 1.41,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-07",
+      "sst": 29.28,
+      "sst_anomaly": 0.97,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-08",
+      "sst": 28.99,
+      "sst_anomaly": 0.65,
+      "dhw": 0.33
+    },
+    {
+      "date": "2014-09",
+      "sst": 28.89,
+      "sst_anomaly": 0.39,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-10",
+      "sst": 29.42,
+      "sst_anomaly": 0.54,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-11",
+      "sst": 29.72,
+      "sst_anomaly": 0.68,
+      "dhw": 0.0
+    },
+    {
+      "date": "2014-12",
+      "sst": 29.94,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-01",
+      "sst": 29.3,
+      "sst_anomaly": 0.56,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-02",
+      "sst": 29.09,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-03",
+      "sst": 29.15,
+      "sst_anomaly": 0.38,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-04",
+      "sst": 29.59,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-05",
+      "sst": 29.81,
+      "sst_anomaly": 1.03,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-06",
+      "sst": 29.5,
+      "sst_anomaly": 0.74,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-07",
+      "sst": 28.83,
+      "sst_anomaly": 0.5,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-08",
+      "sst": 28.72,
+      "sst_anomaly": 0.34,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-09",
+      "sst": 28.61,
+      "sst_anomaly": 0.18,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-10",
+      "sst": 29.12,
+      "sst_anomaly": 0.2,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-11",
+      "sst": 29.64,
+      "sst_anomaly": 0.62,
+      "dhw": 0.0
+    },
+    {
+      "date": "2015-12",
+      "sst": 29.81,
+      "sst_anomaly": 0.77,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-01",
+      "sst": 29.64,
+      "sst_anomaly": 0.97,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-02",
+      "sst": 29.43,
+      "sst_anomaly": 0.9,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-03",
+      "sst": 29.64,
+      "sst_anomaly": 1.08,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-04",
+      "sst": 29.93,
+      "sst_anomaly": 0.96,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-05",
+      "sst": 30.13,
+      "sst_anomaly": 1.23,
+      "dhw": 0.59
+    },
+    {
+      "date": "2016-06",
+      "sst": 29.86,
+      "sst_anomaly": 1.29,
+      "dhw": 0.59
+    },
+    {
+      "date": "2016-07",
+      "sst": 29.72,
+      "sst_anomaly": 1.42,
+      "dhw": 0.59
+    },
+    {
+      "date": "2016-08",
+      "sst": 29.5,
+      "sst_anomaly": 1.12,
+      "dhw": 0.59
+    },
+    {
+      "date": "2016-09",
+      "sst": 29.86,
+      "sst_anomaly": 1.41,
+      "dhw": 0.0
+    },
+    {
+      "date": "2016-10",
+      "sst": 30.04,
+      "sst_anomaly": 1.38,
+      "dhw": 0.07
+    },
+    {
+      "date": "2016-11",
+      "sst": 30.43,
+      "sst_anomaly": 1.4,
+      "dhw": 1.49
+    },
+    {
+      "date": "2016-12",
+      "sst": 30.37,
+      "sst_anomaly": 1.38,
+      "dhw": 3.43
+    },
+    {
+      "date": "2017-01",
+      "sst": 29.98,
+      "sst_anomaly": 1.43,
+      "dhw": 3.36
+    },
+    {
+      "date": "2017-02",
+      "sst": 29.7,
+      "sst_anomaly": 1.19,
+      "dhw": 3.36
+    },
+    {
+      "date": "2017-03",
+      "sst": 29.66,
+      "sst_anomaly": 1.07,
+      "dhw": 1.78
+    },
+    {
+      "date": "2017-04",
+      "sst": 29.73,
+      "sst_anomaly": 0.78,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-05",
+      "sst": 30.13,
+      "sst_anomaly": 1.33,
+      "dhw": 0.3
+    },
+    {
+      "date": "2017-06",
+      "sst": 29.99,
+      "sst_anomaly": 1.33,
+      "dhw": 0.3
+    },
+    {
+      "date": "2017-07",
+      "sst": 29.95,
+      "sst_anomaly": 1.62,
+      "dhw": 0.3
+    },
+    {
+      "date": "2017-08",
+      "sst": 29.55,
+      "sst_anomaly": 1.22,
+      "dhw": 0.3
+    },
+    {
+      "date": "2017-09",
+      "sst": 29.48,
+      "sst_anomaly": 1.1,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-10",
+      "sst": 30.01,
+      "sst_anomaly": 1.3,
+      "dhw": 0.0
+    },
+    {
+      "date": "2017-11",
+      "sst": 30.43,
+      "sst_anomaly": 1.39,
+      "dhw": 2.54
+    },
+    {
+      "date": "2017-12",
+      "sst": 30.07,
+      "sst_anomaly": 1.15,
+      "dhw": 2.76
+    },
+    {
+      "date": "2018-01",
+      "sst": 30.07,
+      "sst_anomaly": 1.38,
+      "dhw": 3.05
+    },
+    {
+      "date": "2018-02",
+      "sst": 30.02,
+      "sst_anomaly": 1.51,
+      "dhw": 2.57
+    },
+    {
+      "date": "2018-03",
+      "sst": 29.64,
+      "sst_anomaly": 1.1,
+      "dhw": 0.51
+    },
+    {
+      "date": "2018-04",
+      "sst": 29.66,
+      "sst_anomaly": 0.7,
+      "dhw": 0.29
+    },
+    {
+      "date": "2018-05",
+      "sst": 29.54,
+      "sst_anomaly": 0.73,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-06",
+      "sst": 29.43,
+      "sst_anomaly": 0.94,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-07",
+      "sst": 29.55,
+      "sst_anomaly": 1.22,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-08",
+      "sst": 29.35,
+      "sst_anomaly": 0.97,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-09",
+      "sst": 29.45,
+      "sst_anomaly": 1.0,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-10",
+      "sst": 29.52,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-11",
+      "sst": 29.62,
+      "sst_anomaly": 0.64,
+      "dhw": 0.0
+    },
+    {
+      "date": "2018-12",
+      "sst": 30.07,
+      "sst_anomaly": 1.02,
+      "dhw": 0.14
+    },
+    {
+      "date": "2019-01",
+      "sst": 29.36,
+      "sst_anomaly": 0.61,
+      "dhw": 0.14
+    },
+    {
+      "date": "2019-02",
+      "sst": 29.03,
+      "sst_anomaly": 0.55,
+      "dhw": 0.14
+    },
+    {
+      "date": "2019-03",
+      "sst": 29.27,
+      "sst_anomaly": 0.49,
+      "dhw": 0.14
+    },
+    {
+      "date": "2019-04",
+      "sst": 30.07,
+      "sst_anomaly": 1.15,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-05",
+      "sst": 29.62,
+      "sst_anomaly": 0.75,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-06",
+      "sst": 29.56,
+      "sst_anomaly": 0.83,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-07",
+      "sst": 29.23,
+      "sst_anomaly": 0.81,
+      "dhw": 0.07
+    },
+    {
+      "date": "2019-08",
+      "sst": 28.73,
+      "sst_anomaly": 0.36,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-09",
+      "sst": 28.67,
+      "sst_anomaly": 0.27,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-10",
+      "sst": 29.66,
+      "sst_anomaly": 0.78,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-11",
+      "sst": 29.85,
+      "sst_anomaly": 0.82,
+      "dhw": 0.0
+    },
+    {
+      "date": "2019-12",
+      "sst": 30.11,
+      "sst_anomaly": 1.07,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-01",
+      "sst": 29.59,
+      "sst_anomaly": 0.9,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-02",
+      "sst": 29.48,
+      "sst_anomaly": 0.95,
+      "dhw": 0.15
+    },
+    {
+      "date": "2020-03",
+      "sst": 29.7,
+      "sst_anomaly": 1.14,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-04",
+      "sst": 30.2,
+      "sst_anomaly": 1.24,
+      "dhw": 0.85
+    },
+    {
+      "date": "2020-05",
+      "sst": 29.94,
+      "sst_anomaly": 1.06,
+      "dhw": 0.85
+    },
+    {
+      "date": "2020-06",
+      "sst": 29.91,
+      "sst_anomaly": 1.37,
+      "dhw": 0.85
+    },
+    {
+      "date": "2020-07",
+      "sst": 29.79,
+      "sst_anomaly": 1.5,
+      "dhw": 0.85
+    },
+    {
+      "date": "2020-08",
+      "sst": 29.73,
+      "sst_anomaly": 1.35,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-09",
+      "sst": 29.73,
+      "sst_anomaly": 1.26,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-10",
+      "sst": 29.99,
+      "sst_anomaly": 1.08,
+      "dhw": 0.0
+    },
+    {
+      "date": "2020-11",
+      "sst": 30.3,
+      "sst_anomaly": 1.26,
+      "dhw": 1.01
+    },
+    {
+      "date": "2020-12",
+      "sst": 30.37,
+      "sst_anomaly": 1.32,
+      "dhw": 2.45
+    },
+    {
+      "date": "2021-01",
+      "sst": 29.73,
+      "sst_anomaly": 1.03,
+      "dhw": 2.45
+    },
+    {
+      "date": "2021-02",
+      "sst": 29.9,
+      "sst_anomaly": 1.43,
+      "dhw": 2.23
+    },
+    {
+      "date": "2021-03",
+      "sst": 30.1,
+      "sst_anomaly": 1.35,
+      "dhw": 1.28
+    },
+    {
+      "date": "2021-04",
+      "sst": 29.98,
+      "sst_anomaly": 1.14,
+      "dhw": 0.15
+    },
+    {
+      "date": "2021-05",
+      "sst": 30.05,
+      "sst_anomaly": 1.08,
+      "dhw": 0.29
+    },
+    {
+      "date": "2021-06",
+      "sst": 29.73,
+      "sst_anomaly": 1.17,
+      "dhw": 0.29
+    },
+    {
+      "date": "2021-07",
+      "sst": 29.77,
+      "sst_anomaly": 1.46,
+      "dhw": 0.14
+    },
+    {
+      "date": "2021-08",
+      "sst": 29.86,
+      "sst_anomaly": 1.52,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-09",
+      "sst": 29.69,
+      "sst_anomaly": 1.32,
+      "dhw": 0.0
+    },
+    {
+      "date": "2021-10",
+      "sst": 30.18,
+      "sst_anomaly": 1.32,
+      "dhw": 1.14
+    },
+    {
+      "date": "2021-11",
+      "sst": 30.17,
+      "sst_anomaly": 1.13,
+      "dhw": 2.21
+    },
+    {
+      "date": "2021-12",
+      "sst": 30.06,
+      "sst_anomaly": 1.02,
+      "dhw": 2.5
+    },
+    {
+      "date": "2022-01",
+      "sst": 29.55,
+      "sst_anomaly": 0.97,
+      "dhw": 2.5
+    },
+    {
+      "date": "2022-02",
+      "sst": 29.54,
+      "sst_anomaly": 1.08,
+      "dhw": 1.36
+    },
+    {
+      "date": "2022-03",
+      "sst": 29.52,
+      "sst_anomaly": 0.83,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-04",
+      "sst": 29.98,
+      "sst_anomaly": 1.02,
+      "dhw": 0.0
+    },
+    {
+      "date": "2022-05",
+      "sst": 30.19,
+      "sst_anomaly": 1.22,
+      "dhw": 1.08
+    },
+    {
+      "date": "2022-06",
+      "sst": 30.02,
+      "sst_anomaly": 1.5,
+      "dhw": 1.08
+    },
+    {
+      "date": "2022-07",
+      "sst": 29.71,
+      "sst_anomaly": 1.4,
+      "dhw": 1.08
+    },
+    {
+      "date": "2022-08",
+      "sst": 29.73,
+      "sst_anomaly": 1.36,
+      "dhw": 0.32
+    },
+    {
+      "date": "2022-09",
+      "sst": 30.16,
+      "sst_anomaly": 1.79,
+      "dhw": 0.16
+    },
+    {
+      "date": "2022-10",
+      "sst": 30.09,
+      "sst_anomaly": 1.25,
+      "dhw": 0.31
+    },
+    {
+      "date": "2022-11",
+      "sst": 30.27,
+      "sst_anomaly": 1.23,
+      "dhw": 0.86
+    },
+    {
+      "date": "2022-12",
+      "sst": 29.99,
+      "sst_anomaly": 1.06,
+      "dhw": 0.86
+    },
+    {
+      "date": "2023-01",
+      "sst": 29.77,
+      "sst_anomaly": 0.98,
+      "dhw": 0.7
+    },
+    {
+      "date": "2023-02",
+      "sst": 29.54,
+      "sst_anomaly": 1.01,
+      "dhw": 0.56
+    },
+    {
+      "date": "2023-03",
+      "sst": 29.84,
+      "sst_anomaly": 1.15,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-04",
+      "sst": 30.11,
+      "sst_anomaly": 1.14,
+      "dhw": 0.29
+    },
+    {
+      "date": "2023-05",
+      "sst": 30.23,
+      "sst_anomaly": 1.26,
+      "dhw": 1.61
+    },
+    {
+      "date": "2023-06",
+      "sst": 30.12,
+      "sst_anomaly": 1.54,
+      "dhw": 1.99
+    },
+    {
+      "date": "2023-07",
+      "sst": 29.84,
+      "sst_anomaly": 1.45,
+      "dhw": 1.99
+    },
+    {
+      "date": "2023-08",
+      "sst": 29.46,
+      "sst_anomaly": 1.1,
+      "dhw": 1.04
+    },
+    {
+      "date": "2023-09",
+      "sst": 29.44,
+      "sst_anomaly": 0.87,
+      "dhw": 0.23
+    },
+    {
+      "date": "2023-10",
+      "sst": 29.61,
+      "sst_anomaly": 0.87,
+      "dhw": 0.0
+    },
+    {
+      "date": "2023-11",
+      "sst": 30.1,
+      "sst_anomaly": 1.06,
+      "dhw": 0.22
+    },
+    {
+      "date": "2023-12",
+      "sst": 30.05,
+      "sst_anomaly": 1.16,
+      "dhw": 0.29
+    },
+    {
+      "date": "2024-01",
+      "sst": 30.19,
+      "sst_anomaly": 1.41,
+      "dhw": 1.36
+    },
+    {
+      "date": "2024-02",
+      "sst": 29.77,
+      "sst_anomaly": 1.24,
+      "dhw": 1.36
+    },
+    {
+      "date": "2024-03",
+      "sst": 30.0,
+      "sst_anomaly": 1.44,
+      "dhw": 1.06
+    },
+    {
+      "date": "2024-04",
+      "sst": 30.34,
+      "sst_anomaly": 1.37,
+      "dhw": 1.05
+    },
+    {
+      "date": "2024-05",
+      "sst": 30.36,
+      "sst_anomaly": 1.49,
+      "dhw": 2.25
+    },
+    {
+      "date": "2024-06",
+      "sst": 30.04,
+      "sst_anomaly": 1.32,
+      "dhw": 2.32
+    },
+    {
+      "date": "2024-07",
+      "sst": 29.61,
+      "sst_anomaly": 1.23,
+      "dhw": 2.1
+    },
+    {
+      "date": "2024-08",
+      "sst": 29.49,
+      "sst_anomaly": 1.15,
+      "dhw": 1.27
+    },
+    {
+      "date": "2024-09",
+      "sst": 30.16,
+      "sst_anomaly": 1.57,
+      "dhw": 0.16
+    },
+    {
+      "date": "2024-10",
+      "sst": 30.34,
+      "sst_anomaly": 1.55,
+      "dhw": 1.9
+    },
+    {
+      "date": "2024-11",
+      "sst": 30.5,
+      "sst_anomaly": 1.46,
+      "dhw": 5.85
+    },
+    {
+      "date": "2024-12",
+      "sst": 30.51,
+      "sst_anomaly": 1.47,
+      "dhw": 8.43
+    },
+    {
+      "date": "2025-01",
+      "sst": 30.11,
+      "sst_anomaly": 1.51,
+      "dhw": 7.89
+    },
+    {
+      "date": "2025-02",
+      "sst": 29.85,
+      "sst_anomaly": 1.35,
+      "dhw": 6.21
+    },
+    {
+      "date": "2025-03",
+      "sst": 30.23,
+      "sst_anomaly": 1.47,
+      "dhw": 1.87
+    },
+    {
+      "date": "2025-04",
+      "sst": 30.22,
+      "sst_anomaly": 1.27,
+      "dhw": 1.92
+    },
+    {
+      "date": "2025-05",
+      "sst": 30.45,
+      "sst_anomaly": 1.57,
+      "dhw": 5.26
+    },
+    {
+      "date": "2025-06",
+      "sst": 30.1,
+      "sst_anomaly": 1.52,
+      "dhw": 5.4
+    },
+    {
+      "date": "2025-07",
+      "sst": 30.08,
+      "sst_anomaly": 1.75,
+      "dhw": 4.57
+    },
+    {
+      "date": "2025-08",
+      "sst": 29.97,
+      "sst_anomaly": 1.62,
+      "dhw": 3.47
+    },
+    {
+      "date": "2025-09",
+      "sst": 30.13,
+      "sst_anomaly": 1.76,
+      "dhw": 0.81
+    },
+    {
+      "date": "2025-10",
+      "sst": 30.36,
+      "sst_anomaly": 1.5,
+      "dhw": 4.3
+    },
+    {
+      "date": "2025-11",
+      "sst": 30.36,
+      "sst_anomaly": 1.32,
+      "dhw": 6.92
+    },
+    {
+      "date": "2025-12",
+      "sst": 30.22,
+      "sst_anomaly": 1.18,
+      "dhw": 7.24
+    }
+  ]
+}
